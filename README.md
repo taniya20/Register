@@ -1,6 +1,6 @@
 I have created the three pages :
-Register.html
-Register.java
+Register.html,
+Register.java,
 web.xml
 
 WEB-INF folder contains web.xml file and WEB-INF/classes contains all the servlet classes and other class files.
